@@ -1,1 +1,7 @@
 *.swp
+
+# MacOS
+*.DS_Store
+
+#vscode editor
+/.vscode
